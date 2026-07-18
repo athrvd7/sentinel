@@ -10,6 +10,7 @@ cache/
 
 # Markdown and image assets
 *.md
+!README.md
 *.png
 *.jpg
 *.jpeg
