@@ -5,6 +5,7 @@ coverage/
 data/
 out/
 cache/
+.impeccable/
 !data/.gitkeep
 
 # Markdown and image assets
